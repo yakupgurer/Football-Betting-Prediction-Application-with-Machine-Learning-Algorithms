@@ -1,2 +1,2 @@
-# Bahis Tahmin Uygulamasi
-Python ile makine öğrenmesi algoritmaları kullanarak selenium ile çekilmiş ve oluşturulmuş dataset üzerinden maç sonuçlarını ve maçların ilk yarılarını tahmin eden uygulama.
+# Football Betting Prediction Application with Machine Learning Algorithms
+Application that predicts match results using KNN,SVM,XGBoost,Random Forest and Naive Bayes algorithms with datasets prepared by scraping betting odds from websites using Python Selenium and BeautifulSoup.
